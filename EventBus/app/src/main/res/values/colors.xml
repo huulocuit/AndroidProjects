@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#BBBBC4</color>
+    <color name="gray_light">#e0e0e0</color>
+    <color name="gray_light_gb">#ededf2</color>
+    <color name="gray_super_light">#f5f5f5</color>
+    <color name="gray_get_start">#6D6D6D</color>
+    <color name="desc_gray">#CBCBCB</color>
+    <color name="gray_dark">#B4B4B4</color>
+    <color name="gray_w_black">#4A4A4A</color>
+    <color name="gray_darker">#909090</color>
+    <color name="green">#00ff00</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="blue_trans">#993a97dc</color>
+    <color name="black_trans">#90000000</color>
+    <color name="white_trans">#50FFFFFF</color>
+    <color name="white_trans_70">#95FFFFFF</color>
+    <color name="red_darker">#ff8f2119</color>
+    <color name="divider">#ECECEC</color>
+    <color name="blue">#ff3a97dc</color>#79A6BC
+    <color name="white">#FFFFFF</color>
+
+    <color name="btn_green">#7db631</color>
+    <color name="delete_btn_color">#EA0677</color>
+    <color name="conn_green">#7CB340</color>
+    <color name="conn_green_light">#A3CD4C</color>
+    <color name="green_dark">#6e984d</color>
+    <!--<color name="conn_blue">#1B75BA</color>-->
+    <color name="conn_blue">#1A75BC</color>
+    <color name="conn_blue_light">#39A2DB</color>
+    <color name="conn_orange">#FC9616</color>
+    <color name="conn_orange_light">#FAAE40</color>
+    <color name="conn_red">#EB0B76</color>
+    <color name="conn_red_light">#F285A7</color>
+
+    <color name="patient_info_text">#1A75BC</color>
+
+    <!-- dots inactive colors - intro page -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- dots active colors -->
+    <color name="dot_active">#1A75BC</color>
+    <color name="dot_inactive">#e0e0e0</color>
+
+    <color name="list_item_background">#AACCCCCC</color>
+</resources>
+
